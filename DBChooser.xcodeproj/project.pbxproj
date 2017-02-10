@@ -25,10 +25,10 @@
 		FAAF7E491E4DAF5E00C771F9 /* DBCConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5D17716D0F00CCB299 /* DBCConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E4A1E4DAF5E00C771F9 /* DBCConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A5E17716D0F00CCB299 /* DBCConstants.m */; };
 		FAAF7E4B1E4DAF5E00C771F9 /* DBChooser.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5417716C3200CCB299 /* DBChooser.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCF177283200098BC7B /* DBChooser+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCF177283200098BC7B /* DBChooser+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E4D1E4DAF5E00C771F9 /* DBChooser.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A5617716C3200CCB299 /* DBChooser.m */; };
 		FAAF7E4E1E4DAF5E00C771F9 /* DBChooserResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCC177282760098BC7B /* DBChooserResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CD2177288650098BC7B /* DBChooserResult+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CD2177288650098BC7B /* DBChooserResult+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E501E4DAF5E00C771F9 /* DBChooserResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBE8CCD177282760098BC7B /* DBChooserResult.m */; };
 		FAAF7E511E4DAF5E00C771F9 /* DBCLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BA4A919177186F50007141A /* DBCLocalization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E521E4DAF5E00C771F9 /* DBCLocalization.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BA4A91A177186F50007141A /* DBCLocalization.m */; };
@@ -224,9 +224,9 @@
 				FAAF7E5D1E4DAF5E00C771F9 /* DBCStyledNavigationController.h in Headers */,
 				FAAF7E571E4DAF5E00C771F9 /* DBChooserAppearance.h in Headers */,
 				FAAF7E4E1E4DAF5E00C771F9 /* DBChooserResult.h in Headers */,
-				FAAF7E451E4DAF4A00C771F9 /* DBChooserFramework.h in Headers */,
 				FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */,
 				FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */,
+				FAAF7E451E4DAF4A00C771F9 /* DBChooserFramework.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
