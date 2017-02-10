@@ -3,6 +3,8 @@
 //  DBChooser
 //
 
+#import <Foundation/Foundation.h>
+
 extern NSString *kDBCProtocol;
 extern NSString *kDBCAPIVersion;
 
