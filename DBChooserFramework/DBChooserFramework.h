@@ -17,3 +17,13 @@ FOUNDATION_EXPORT const unsigned char DBChooserFrameworkVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <DBChooserFramework/PublicHeader.h>
 
 #import <DBChooserFramework/DBChooser.h>
+#import <DBChooserFramework/ChooserNoDropboxViewController.h>
+#import <DBChooserFramework/DBCBlueButton.h>
+#import <DBChooserFramework/DBAppearance.h>
+#import <DBChooserFramework/DBCStyledErrorView.h>
+#import <DBChooserFramework/DBCConstants.h>
+#import <DBChooserFramework/DBCLocalization.h>
+#import <DBChooserFramework/DBChooser.h>
+#import <DBChooserFramework/DBCStyledNavigationController.h>
+#import <DBChooserFramework/DBChooserAppearance.h>
+#import <DBChooserFramework/DBChooserResult.h>

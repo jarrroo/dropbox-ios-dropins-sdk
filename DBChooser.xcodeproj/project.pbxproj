@@ -21,28 +21,28 @@
 		9BBE8CCE177282760098BC7B /* DBChooserResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBE8CCD177282760098BC7B /* DBChooserResult.m */; };
 		9BBE8CD317728A5F0098BC7B /* DBChooserResult.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 9BBE8CCC177282760098BC7B /* DBChooserResult.h */; };
 		D31788D617D7B25000FFCC62 /* DBAppearance.m in Sources */ = {isa = PBXBuildFile; fileRef = D31788D517D7B25000FFCC62 /* DBAppearance.m */; };
-		FAAF7E451E4DAF4A00C771F9 /* DBChooserFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = FAAF7E431E4DAF4A00C771F9 /* DBChooserFramework.h */; };
-		FAAF7E491E4DAF5E00C771F9 /* DBCConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5D17716D0F00CCB299 /* DBCConstants.h */; };
+		FAAF7E451E4DAF4A00C771F9 /* DBChooserFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = FAAF7E431E4DAF4A00C771F9 /* DBChooserFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAAF7E491E4DAF5E00C771F9 /* DBCConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5D17716D0F00CCB299 /* DBCConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E4A1E4DAF5E00C771F9 /* DBCConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A5E17716D0F00CCB299 /* DBCConstants.m */; };
-		FAAF7E4B1E4DAF5E00C771F9 /* DBChooser.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5417716C3200CCB299 /* DBChooser.h */; };
-		FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCF177283200098BC7B /* DBChooser+Private.h */; };
+		FAAF7E4B1E4DAF5E00C771F9 /* DBChooser.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A5417716C3200CCB299 /* DBChooser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCF177283200098BC7B /* DBChooser+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		FAAF7E4D1E4DAF5E00C771F9 /* DBChooser.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A5617716C3200CCB299 /* DBChooser.m */; };
-		FAAF7E4E1E4DAF5E00C771F9 /* DBChooserResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCC177282760098BC7B /* DBChooserResult.h */; };
-		FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CD2177288650098BC7B /* DBChooserResult+Private.h */; };
+		FAAF7E4E1E4DAF5E00C771F9 /* DBChooserResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CCC177282760098BC7B /* DBChooserResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BBE8CD2177288650098BC7B /* DBChooserResult+Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		FAAF7E501E4DAF5E00C771F9 /* DBChooserResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BBE8CCD177282760098BC7B /* DBChooserResult.m */; };
-		FAAF7E511E4DAF5E00C771F9 /* DBCLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BA4A919177186F50007141A /* DBCLocalization.h */; };
+		FAAF7E511E4DAF5E00C771F9 /* DBCLocalization.h in Headers */ = {isa = PBXBuildFile; fileRef = 9BA4A919177186F50007141A /* DBCLocalization.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E521E4DAF5E00C771F9 /* DBCLocalization.m in Sources */ = {isa = PBXBuildFile; fileRef = 9BA4A91A177186F50007141A /* DBCLocalization.m */; };
-		FAAF7E531E4DAF5E00C771F9 /* DBAppearance.h in Headers */ = {isa = PBXBuildFile; fileRef = D31788D417D7B25000FFCC62 /* DBAppearance.h */; };
+		FAAF7E531E4DAF5E00C771F9 /* DBAppearance.h in Headers */ = {isa = PBXBuildFile; fileRef = D31788D417D7B25000FFCC62 /* DBAppearance.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E541E4DAF5E00C771F9 /* DBAppearance.m in Sources */ = {isa = PBXBuildFile; fileRef = D31788D517D7B25000FFCC62 /* DBAppearance.m */; };
-		FAAF7E551E4DAF5E00C771F9 /* DBCBlueButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7217716D3600CCB299 /* DBCBlueButton.h */; };
+		FAAF7E551E4DAF5E00C771F9 /* DBCBlueButton.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7217716D3600CCB299 /* DBCBlueButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E561E4DAF5E00C771F9 /* DBCBlueButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A7317716D3600CCB299 /* DBCBlueButton.m */; };
-		FAAF7E571E4DAF5E00C771F9 /* DBChooserAppearance.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7417716D3600CCB299 /* DBChooserAppearance.h */; };
+		FAAF7E571E4DAF5E00C771F9 /* DBChooserAppearance.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7417716D3600CCB299 /* DBChooserAppearance.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E581E4DAF5E00C771F9 /* DBChooserAppearance.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A7517716D3600CCB299 /* DBChooserAppearance.m */; };
-		FAAF7E591E4DAF5E00C771F9 /* DBChooserNoDropboxViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7617716D3600CCB299 /* DBChooserNoDropboxViewController.h */; };
+		FAAF7E591E4DAF5E00C771F9 /* DBChooserNoDropboxViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7617716D3600CCB299 /* DBChooserNoDropboxViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E5A1E4DAF5E00C771F9 /* DBChooserNoDropboxViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A7717716D3600CCB299 /* DBChooserNoDropboxViewController.m */; };
-		FAAF7E5B1E4DAF5E00C771F9 /* DBCStyledErrorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7817716D3600CCB299 /* DBCStyledErrorView.h */; };
+		FAAF7E5B1E4DAF5E00C771F9 /* DBCStyledErrorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7817716D3600CCB299 /* DBCStyledErrorView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E5C1E4DAF5E00C771F9 /* DBCStyledErrorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A7917716D3600CCB299 /* DBCStyledErrorView.m */; };
-		FAAF7E5D1E4DAF5E00C771F9 /* DBCStyledNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7A17716D3600CCB299 /* DBCStyledNavigationController.h */; };
+		FAAF7E5D1E4DAF5E00C771F9 /* DBCStyledNavigationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B861A7A17716D3600CCB299 /* DBCStyledNavigationController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FAAF7E5E1E4DAF5E00C771F9 /* DBCStyledNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B861A7B17716D3600CCB299 /* DBCStyledNavigationController.m */; };
 /* End PBXBuildFile section */
 
@@ -214,8 +214,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */,
-				FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */,
 				FAAF7E591E4DAF5E00C771F9 /* DBChooserNoDropboxViewController.h in Headers */,
 				FAAF7E551E4DAF5E00C771F9 /* DBCBlueButton.h in Headers */,
 				FAAF7E531E4DAF5E00C771F9 /* DBAppearance.h in Headers */,
@@ -227,6 +225,8 @@
 				FAAF7E571E4DAF5E00C771F9 /* DBChooserAppearance.h in Headers */,
 				FAAF7E4E1E4DAF5E00C771F9 /* DBChooserResult.h in Headers */,
 				FAAF7E451E4DAF4A00C771F9 /* DBChooserFramework.h in Headers */,
+				FAAF7E4C1E4DAF5E00C771F9 /* DBChooser+Private.h in Headers */,
+				FAAF7E4F1E4DAF5E00C771F9 /* DBChooserResult+Private.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
